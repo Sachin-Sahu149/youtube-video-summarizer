@@ -1,13 +1,15 @@
- 🎬 YouTube Video Summarizer API (FastAPI)
+# 🎥 YouTube Video Summarizer API (FastAPI)
 
-A FastAPI-based backend application to summarize YouTube videos using AI models. This project is in the initial setup phase, including virtual environment, dependencies, and development server configuration.
+A FastAPI-based backend application to summarize YouTube videos using AI models.  
+This project is in the initial setup phase, including virtual environment setup, dependencies, and development server configuration.
 
 ---
 
- 🚀 Project Setup
+## 🚀 Project Setup
 
-1. Clone the Repository
-bash
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/your-username/youtube-video-summarizer.git
 cd youtube-video-summarizer
 
